@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FizzBuzz.Library.Test/1.0.0": {
+        "dependencies": {
+          "FizzBuzz.Library": "1.0.0",
+          "NUnit": "2.6.4",
+          "NUnitTestAdapter": "2.0.0"
+        },
+        "runtime": {
+          "FizzBuzz.Library.Test.dll": {}
+        }
+      },
+      "NUnit/2.6.4": {
+        "runtime": {
+          "lib/nunit.framework.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          }
+        }
+      },
+      "NUnitTestAdapter/2.0.0": {
+        "runtime": {
+          "lib/NUnit.VisualStudio.TestAdapter.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/nunit.core.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          },
+          "lib/nunit.core.interfaces.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          },
+          "lib/nunit.util.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          }
+        }
+      },
+      "FizzBuzz.Library/1.0.0": {
+        "runtime": {
+          "FizzBuzz.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FizzBuzz.Library.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/2.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cmSPvaCMRSP0DI19FP1Liw9DyJY3E/vOY1OrVaeJBZpZFWHkmT3fB9ngGWnZX/ftvA7zJEbghEaw3Yd+u4YFAw==",
+      "path": "nunit/2.6.4",
+      "hashPath": "nunit.2.6.4.nupkg.sha512"
+    },
+    "NUnitTestAdapter/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w0f2er8eVYVdJIssFrEgbQgTWdtNWGOlqd87/pdpYgxJW1ACQwL1h3vhsT4vwVAHPbZEZvaO56bbZhu+swX0jw==",
+      "path": "nunittestadapter/2.0.0",
+      "hashPath": "nunittestadapter.2.0.0.nupkg.sha512"
+    },
+    "FizzBuzz.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

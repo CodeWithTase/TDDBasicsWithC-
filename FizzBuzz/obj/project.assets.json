@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "FizzBuzz.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/FizzBuzz.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.Library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "FizzBuzz.Library/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzz.Library/FizzBuzz.Library.csproj",
+      "msbuildProject": "../FizzBuzz.Library/FizzBuzz.Library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "FizzBuzz.Library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\EruAk\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\EruAk\\source\\repos\\FizzBuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+              "projectPath": "C:\\Users\\EruAk\\source\\repos\\FizzBuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "CzjQTwZO7qRg4ZnF1f6KlqpAEeLtg7/mPQrnlU1yeGXdfbJkEw5Vm/zgkyxNvaDu5r8vSBeFzM8rLzqt7IE/aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EruAk\\source\\repos\\FizzBuzz\\FizzBuzz.Library.Test\\FizzBuzz.Library.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EruAk\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\EruAk\\.nuget\\packages\\nunittestadapter\\2.0.0\\nunittestadapter.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit 2.6.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnitTestAdapter 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnitTestAdapter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.deps.json
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\bin\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.AssemblyReference.cache
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library\obj\Debug\netcoreapp3.1\FizzBuzz.Library.pdb

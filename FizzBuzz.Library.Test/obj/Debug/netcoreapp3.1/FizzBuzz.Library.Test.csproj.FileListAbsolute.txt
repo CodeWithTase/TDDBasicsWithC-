@@ -1,0 +1,13 @@
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\netcoreapp3.1\FizzBuzz.Library.Test.deps.json
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\netcoreapp3.1\FizzBuzz.Library.Test.dll
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\netcoreapp3.1\FizzBuzz.Library.Test.pdb
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\netcoreapp3.1\FizzBuzz.Library.dll
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\bin\Debug\netcoreapp3.1\FizzBuzz.Library.pdb
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.csproj.AssemblyReference.cache
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.AssemblyInfoInputs.cache
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.AssemblyInfo.cs
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.csproj.CoreCompileInputs.cache
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.csproj.CopyComplete
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.dll
+C:\Users\EruAk\source\repos\FizzBuzz\FizzBuzz.Library.Test\obj\Debug\netcoreapp3.1\FizzBuzz.Library.Test.pdb
