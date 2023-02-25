@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gQyIYwe9qRRekam70m3WE61kaiABqkJXbckqSTK4rQHoIaaMXc4FzqFvmqziXDyKThvN6qXtN+ahD8KGGYOzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EruAk\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EruAk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
